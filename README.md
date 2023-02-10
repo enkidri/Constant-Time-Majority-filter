@@ -1,6 +1,6 @@
-# Majority-filter
+# Majority filter in constant time
 
-Majority filter (also called mode filter) is a nonlinear filter that picks up the most frequently occouring pixel values within the specified filter window. If multiple values has the majority the lowest pixel value is chosen. This "smearing" effect on the image.
+Majority filter (also called mode filter) is a nonlinear filter that picks up the most frequently occouring pixel values within the specified filter window. If multiple values has the majority the lowest pixel value is chosen. This "smearing" effect on the image. Algorithm was used in SICK coding competition.
 
 ![Before and after](showcase.png)
 
